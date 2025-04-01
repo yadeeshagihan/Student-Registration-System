@@ -1,2 +1,2 @@
-# Student Registration System( C+)
- Student registration system that allows administrators to efficiently manage student records and course enrollments
+# Student Registration System( C++)
+ Student registration system that allows administrators to manage student records and course enrollments
